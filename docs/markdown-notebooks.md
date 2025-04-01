@@ -13,6 +13,8 @@ kernelspec:
   name: python3
 ---
 
+Hello I, Jenny, edited this text, look how nice ```{this} looks.
+
 # Notebooks with MyST Markdown
 
 Jupyter Book also lets you write text-based notebooks using MyST Markdown.
