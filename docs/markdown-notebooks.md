@@ -13,7 +13,7 @@ kernelspec:
   name: python3
 ---
 
-Hello I, Jenny, edited this text, look how nice ```{this} looks.
+Hello I, Jenny, edited this text, look how nice `{this}` looks.
 
 # Notebooks with MyST Markdown
 
